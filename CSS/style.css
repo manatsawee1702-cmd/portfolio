@@ -56,3 +56,15 @@ footer{
     text-align: center;
     padding: 10px;
 }
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    /* padding; 10px 20px; */
+    align-items: center;
+}
+
+.logo img{
+    width: 100px;
+    height: auto;
+}
